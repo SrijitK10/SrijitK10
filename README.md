@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **GAN Generated Images**
+- 🔭 I’m currently working on **GAN Generated Images and Diffusion Models**
 
 - 🌱 I’m currently learning **Vision Transformers, Vision Mamba**
 
