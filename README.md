@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Srijit</h1>
 <h3 align="center">An aspiring machine learning engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijitk10" alt="srijitk10" /></a> </p>
+
 
 - 🔭 I’m currently working on **GAN Generated Images**
 
-- 🌱 I’m currently learning **Image and Audio Processing, PowerBI, MATLAB**
+- 🌱 I’m currently learning **Vision Transformers, Vision Mamba**
 
-- 👯 I’m looking to collaborate on **NLP Projects, Audio Analysis**
-
+- 👯 I’m looking to collaborate on **Computer Vision Projects**
+  
 - ⚡ Fun fact **Average "WASD" Lover**
 
 <h3 align="left">Connect with me:</h3>
